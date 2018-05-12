@@ -21,6 +21,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21406#Novelas-do-Minho
 edition_note: Segunda Edição
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2007-05-09'
