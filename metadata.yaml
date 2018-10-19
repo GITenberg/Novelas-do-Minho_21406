@@ -44,5 +44,6 @@ series_note: "Obras de Camillo Castello Branco\r\nEdição Popular\r\nXVII"
 subjects:
 - !lcsh 'Minho (Portugal) -- Fiction'
 - !lcc 'PQ'
+- GITenberg
 title: Novelas do Minho
 url: http://www.gutenberg.org/ebooks/21406
